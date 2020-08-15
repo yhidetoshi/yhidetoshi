@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
 ![yhidetoshi github stats](https://github-readme-stats.vercel.app/api?username=yhidetoshi&theme=nightowl&show_icons=true)
+-->
